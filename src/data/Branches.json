@@ -1,0 +1,44 @@
+[
+    {
+        "key": 1,
+        "name": "Casablanca",
+        "imgName": "casablanca.jpg",
+        "phone": "+212-522-123456",
+        "email": "casablanca@carmony.com"
+    },
+    {
+        "key": 2,
+        "name": "Rabat",
+        "imgName": "rabat.jpg",
+        "phone": "+212-537-654321",
+        "email": "rabat@carmony.com"
+    },
+    {
+        "key": 3,
+        "name": "Marrakech",
+        "imgName": "marrakech.jpg",
+        "phone": "+212-524-112233",
+        "email": "marrakech@carmony.com"
+    },
+    {
+        "key": 4,
+        "name": "Fes",
+        "imgName": "fes.jpg",
+        "phone": "+212-535-445566",
+        "email": "fes@carmony.com"
+    },
+    {
+        "key": 5,
+        "name": "Tangier",
+        "imgName": "tangier.jpg",
+        "phone": "+212-539-778899",
+        "email": "tangier@carmony.com"
+    },
+    {
+        "key": 6,
+        "name": "Agadir",
+        "imgName": "agadir.png",
+        "phone": "+212-528-990011",
+        "email": "agadir@carmony.com"
+    }
+]

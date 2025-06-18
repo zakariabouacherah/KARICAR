@@ -1,0 +1,24 @@
+{
+    "faqs": [
+        {
+            "question": "How old do I need to be to rent a car?",
+            "answer": "The minimum age requirement to rent a car is 21 years old, and you must have held a driving license for at least 1 year. Additional fees or restrictions might apply to drivers under 25."
+        },
+        {
+            "question": "What documents do I need to rent a car?",
+            "answer": "You'll need a valid driver's license and an additional form of identification, such as a credit/debit card in the driver's name, a passport or other government-issued ID."
+        },
+        {
+            "question": "Can I add an additional driver to the rental agreement?",
+            "answer": "Yes, additional drivers can be added to the rental agreement for a fee. They will need to meet our age and license requirements and will need to be present at the time of pickup."
+        },
+        {
+            "question": "What payment methods are accepted for car rentals?",
+            "answer": "We accept all major credit and debit cards, including Visa, Mastercard and American Express. Your deposit can be paid using our secure online portal, which also accepts Apple/Google pay."
+        },
+        {
+            "question": "Is insurance included with the rental car?",
+            "answer": "Basic insurance coverage is included in the rental cost. However, it's advisable to review your personal insurance policy or consider purchasing one of our additional coverage plans to ensure adequate protection."
+        }
+    ]
+}

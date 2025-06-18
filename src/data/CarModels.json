@@ -1,0 +1,101 @@
+[
+    {
+        "key": 1,
+        "make": "Ford",
+        "model": "Focus",
+        "pplCapacity": 5,
+        "fuel": "Petrol",
+        "transmission": "Manual",
+        "imgname": "1.png",
+        "description": "A versatile and fuel-efficient car. This model is ideal for those seeking an affordable and practical option for their travels.",
+        "premium": false
+    },
+    {
+        "key": 2,
+        "make": "Vauxhall",
+        "model": "Corsa",
+        "pplCapacity": 5,
+        "fuel": "Petrol",
+        "transmission": "Manual",
+        "imgname": "2.png",
+        "description": "A practical and economical option for urban driving. It's a great choice for those looking for affordability and city-friendly features.",
+        "premium": false
+    },
+    {
+        "key": 3,
+        "make": "BMW",
+        "model": "5 Series",
+        "pplCapacity": 5,
+        "fuel": "Petrol",
+        "transmission": "Manual",
+        "imgname": "3.png",
+        "description": "A luxurious and stylish choice for those who are seeking a premium driving experience.",
+        "premium": true
+    },
+    {
+        "key": 4,
+        "make": "Toyota",
+        "model": "Yaris",
+        "pplCapacity": 5,
+        "fuel": "Petrol",
+        "transmission": "Automatic",
+        "imgname": "4.png",
+        "description": "A reliable and compact car for easy and convenient driving. An excellent choice for those who value simplicity and efficiency.",
+        "premium": false
+    },
+    {
+        "key": 5,
+        "make": "Skoda",
+        "model": "Octavia",
+        "pplCapacity": 5,
+        "fuel": "Diesel",
+        "transmission": "Manual",
+        "imgname": "5.png",
+        "description": "A dependable and fuel-efficient car that offers an excellent cost-effective and reliable option for your travels.",
+        "premium": false
+    },
+    {
+        "key": 6,
+        "make": "Mercedes-Benz",
+        "model": "C-Class",
+        "pplCapacity": 4,
+        "fuel": "Diesel",
+        "transmission": "Automatic",
+        "imgname": "6.png",
+        "description": "A premium luxury car which is ideally suited for those who desire a high-end, sophisticated driving experience.",
+        "premium": true
+    },
+    {
+        "key": 7,
+        "make": "Hyundai",
+        "model": "IONIQ",
+        "pplCapacity": 5,
+        "fuel": "Hybrid",
+        "transmission": "Automatic",
+        "imgname": "7.png",
+        "description": "A blend of sleek design and exceptional fuel efficiency, delivering a comfortable and eco-conscious hybrid driving experience.",
+        "premium": false
+    },
+    {
+        "key": 8,
+        "make": "Renault",
+        "model": "Zoe",
+        "pplCapacity": 4,
+        "fuel": "Electric",
+        "transmission": "Automatic",
+        "imgname": "8.png",
+        "description": "An efficient and stylish electric vehicle perfect for city driving, boasting a compact design and eco-friendly performance.",
+        "premium": false
+    },
+    {
+        "key": 9,
+        "make": "Vauxhall",
+        "model": "Insignia",
+        "pplCapacity": 5,
+        "fuel": "Petrol",
+        "transmission": "Manual",
+        "imgname": "9.png",
+        "description": "Combines sleek design with impressive performance, offering a spacious and comfortable ride ideal for both city commutes and long journeys.",
+        "premium": false
+    }
+]

@@ -1,0 +1,113 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
+
+html {
+  background-color: #ffffff;
+  font-family: "Roboto", sans-serif;
+}
+
+.hero-img {
+  width: 100%;
+  height: 50vh;
+  object-fit: cover;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.link:hover {
+  text-decoration: underline;
+  text-underline-offset: 0.2rem;
+}
+
+.car-img {
+  height: 13rem;
+  transition: transform 0.5s;
+  margin: auto;
+  display: block;
+}
+
+.max-width-container {
+  max-width: 75rem;
+}
+
+.branch-img {
+  height: 15rem;
+  object-fit: cover;
+}
+
+.brand-logo-img {
+  width: 70%;
+  filter: grayscale(1);
+  opacity: 0.4;
+}
+
+.car-card:hover .car-img {
+  transform: scale(1.05);
+}
+
+.hero-card {
+  background-color: rgba(256, 256, 256, 0.8) !important;
+  width: 60%;
+}
+
+@media (max-width: 768px) {
+  .hero-card {
+    width: 90%;
+  }
+}
+
+.hero-container {
+  position: relative;
+  width: 100%;
+  height: 65vh;
+  /* Adjust the height as needed */
+  overflow: hidden;
+}
+
+.hero-image {
+  width: 100%;
+  height: 65vh;
+  object-fit: cover;
+}
+
+.hero-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 65vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.nav-item:hover {
+  text-decoration: underline;
+  text-underline-offset: 0.3rem;
+}
+
+.nav-link {
+  text-decoration: none;
+}
+
+.active {
+  text-decoration: underline;
+  text-underline-offset: 0.3rem;
+}
+
+dt {
+  font-weight: 400;
+  padding-bottom: 5px;
+}
+
+@media (min-width: 992px) {
+  .reserve-button {
+    margin-left: auto;
+  }
+}
+
+/* Override the accordian to remove the ugly box shadow outline */
+.accordion-button:focus {
+  box-shadow: none;
+}
